@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Actek.iml" filepath="$PROJECT_DIR$/.idea/Actek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GPT_proxy/.idea/GPT_proxy.iml" filepath="$PROJECT_DIR$/../GPT_proxy/.idea/GPT_proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Neiva/.idea/Neiva.iml" filepath="$PROJECT_DIR$/../Neiva/.idea/Neiva.iml" />
+    </modules>
+  </component>
+</project>
